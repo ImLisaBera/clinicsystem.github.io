@@ -1,1 +1,2 @@
-# clinicsystem.github.io
+# clinicsystem
+## Provide clinic service to the society
