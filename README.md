@@ -1,2 +1,1 @@
-# clinicsystem
-## Provide clinic service to the society
+# Clinix a platform for the society to get attentive medical service quickly and efficiently.
